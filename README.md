@@ -1,1 +1,1 @@
-# Computer Science II: Object-Oriented Programming in C++
+# Computer Science II: Object-Oriented Programming
